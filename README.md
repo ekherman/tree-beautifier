@@ -1,7 +1,7 @@
 # Tree Beautifier
 
 - FILE: tree_beautifier.py
-- AUTH: Emily Herman (eherman@ualberta.ca)
+- AUTH: ekherman
 - DATE: May 13, 2019
 - VERS: 1.0
 
